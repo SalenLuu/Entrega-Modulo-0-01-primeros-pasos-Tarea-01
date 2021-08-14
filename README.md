@@ -1,4 +1,4 @@
-##CONCEPTOS APRENDIDOS
+## CONCEPTOS APRENDIDOS
 
 
 En esta sesión empezamos por instalar todo el software necesario para 
@@ -8,11 +8,11 @@ trabajar durante los módulos.
 2. Wakatime: Nos ayudará a ver estadísticas sobre nuestro trabajo en cuanto a tiempo dedicado a la programación.
 3. Git: La terminal con la cual utilizamos comandos para desenvolvernos en nuestro computador buscando y creando distintos archivos.
 
-###GITHUB
+### GITHUB
 
 Aprendí cómo subir mis proyectos por medio de los repositorios, y el proceso de "actualizado" de los mismos. También distintas maneras de tener una buena presentación y personalización en cuanto a MarkDown.
 
-###COMANDOS
+### COMANDOS
 
 Se enseñó el implemento de distintos comandos en la consola tales como:
 
